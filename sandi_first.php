@@ -112,11 +112,11 @@
 
                             <div class="card-content">
                                 <div class="table-responsive">
-                                    <table id="sandi_first" class="table table-striped table-bordered" style="width:100%; font-weight: bold; font-size: 120%;">
+                                    <table id="sandi_first" class="table table-striped table-bordered" style="font-weight: bold; font-size: 120%;">
                                         <thead>
                                             <tr>
                                                 <th class="border-top-0">အမှတ်စဉ်</th>
-                                                <th class="border-top-0"><<<<-------- သုတ်စဉ်  -- --- ------------>>>></th>
+                                                <th class="border-top-0"><<<<---- သုတ်စဉ်  -- -->>>></th>
                                                 <th class="border-top-0" style="text-align: center;">သုတ်စဉ်အဖွင့်</th>
                                                 
                                                 
