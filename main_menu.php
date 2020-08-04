@@ -17,6 +17,8 @@
                         </li>
                         <li><a class="menu-item" href="sandi_fifth.php"><i></i><span>သန္ဓိပဉ္စမပိုင်း</span></a>
                         </li>
+                        <li><a class="menu-item" href="sandi_first_test.php"><i></i><span>Test</span></a>
+                        </li>
                     </ul>
                 </li>
                 <li class=" nav-item"><a href="#"><i class="la la-stethoscope"></i><span class="menu-title" data-i18n="Doctors">Doctors</span></a>
